@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Cliente
+comment1.params=nombre\ telefono
+comment1.target=Cliente(java.lang.String,\ java.lang.String)
+comment2.params=mensaje
+comment2.target=void\ notificar(java.lang.String)
+numComments=3

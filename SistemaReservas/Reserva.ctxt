@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Reserva
+comment1.params=fecha\ hora\ cliente\ mesa
+comment1.target=Reserva(java.lang.String,\ java.lang.String,\ Cliente,\ Mesa)
+comment2.params=
+comment2.target=void\ cancelar()
+comment3.params=
+comment3.target=java.lang.String\ getId()
+comment4.params=
+comment4.target=java.lang.String\ getEstado()
+numComments=5

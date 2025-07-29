@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SistemaReservas
+comment1.params=
+comment1.target=SistemaReservas()
+comment2.params=fechaStr\ horaStr\ numPersonas\ cliente
+comment2.target=void\ solicitarReserva(java.lang.String,\ java.lang.String,\ int,\ Cliente)
+comment3.params=idReserva
+comment3.target=void\ cancelarReserva(java.lang.String)
+comment4.params=fecha\ hora
+comment4.target=java.time.LocalDateTime\ parsearFechaHora(java.lang.String,\ java.lang.String)
+comment5.params=fechaHora
+comment5.target=java.lang.String\ sugerirHorarioAlternativo(java.time.LocalDateTime)
+numComments=6

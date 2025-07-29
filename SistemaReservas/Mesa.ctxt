@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Mesa
+comment1.params=numero
+comment1.target=Mesa(int)
+comment2.params=fechaHora
+comment2.target=boolean\ verificarDisponibilidad(java.time.LocalDateTime)
+comment3.params=estado
+comment3.target=void\ habilitarMesa(boolean)
+comment4.params=
+comment4.target=int\ getNumero()
+numComments=5
