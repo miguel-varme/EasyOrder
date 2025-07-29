@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Restaurante
+comment1.params=pedido
+comment1.target=void\ notificarNuevoPedido(Pedido)
+comment2.params=idPedido\ estado
+comment2.target=void\ actualizarEstado(java.lang.String,\ java.lang.String)
+numComments=3
