@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ControlRecompensas
+comment1.params=
+comment1.target=ControlRecompensas()
+comment2.params=
+comment2.target=void\ mostrarCatalogo()
+comment3.params=usuario\ indice
+comment3.target=void\ reclamarRecompensa(Usuario,\ int)
+numComments=4
