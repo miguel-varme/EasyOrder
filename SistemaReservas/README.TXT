@@ -1,10 +1,10 @@
 1. Descargar el Repositorio de GitHub
 Opción A: Descargar como ZIP
-Abre el navegador y ve al repositorio de GitHub (ej: https://github.com/tu-usuario/tu-repositorio).
+Abre el navegador y ve al repositorio de GitHub (en este caso ya nos encontramos en el repositorio).
 
 Haz clic en el botón verde "Code" y selecciona "Download ZIP".
 
-Extrae el archivo ZIP en una carpeta fácil de encontrar (ej: C:\BlueJ-Projects).
+Extrae el archivo ZIP en una carpeta fácil de encontrar 
 
 Opción B: Usar Git (recomendado para actualizaciones)
 Instala Git desde git-scm.com (siguiente, siguiente… hasta finalizar).
